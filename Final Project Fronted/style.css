@@ -1,0 +1,50 @@
+.container #first{
+    position: absolute;
+    top: 12%;
+    left: 470;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+
+  .container #sec{
+    position: absolute;
+    top: 12%;
+    left: 700;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+
+  .container #third{
+    position: absolute;
+    top: 12%;
+    left: 930;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
+
+  .container #forth{
+    position: absolute;
+    top: 12%;
+    left: 1130;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: hsl(261, 83%, 50%);
+    color: black;
+    font-size: 16px;
+    padding: 5px 10px;
+    text-align: center;
+  }
+
+  .container #res
+{
+    position: absolute;
+    top: 30%;
+    left: 700;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: hsl(261, 83%, 50%);
+    color: black;
+    font-size: 16px;
+    padding: 5px 100px;
+    text-align: center;
+}
